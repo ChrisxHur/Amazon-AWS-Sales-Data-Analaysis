@@ -1,4 +1,4 @@
-# Amazon-AWS-Sales-Data-Analaysis
+# Amazon-AWS-Sales-Data-Analysis
 This is an overview of quarterly and yearly Amazon AWS sales data from 2020 - 2023.
 
 ![saas_sales_tableau](https://github.com/user-attachments/assets/331fa009-cf9e-46e6-a6c7-2543697387ce)
